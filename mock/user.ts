@@ -1,7 +1,4 @@
-import type { MockConfig } from 'vite-plugin-mock'
-import Mock from 'mockjs'
-
-export default (config?: MockConfig) => {
+export default () => {
   return [
     {
       url: '/api/user/login',
