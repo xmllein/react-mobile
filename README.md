@@ -22,3 +22,4 @@
 - [antd-mobile](https://mobile.ant.design/zh/guide/quick-start/)
 - [zustand 文档](https://docs.pmnd.rs/zustand/getting-started/introduction)
 - [zustand 中文文档](https://awesomedevin.github.io/zustand-vue/)
+- [husky 官网](https://typicode.github.io/husky/getting-started.html)
